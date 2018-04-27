@@ -21,6 +21,7 @@ display-url-api
 docker-commons
 docker-workflow
 durable-task
+ec2
 external-monitor-job
 git
 git-changelog
@@ -41,7 +42,6 @@ mailer
 matrix-auth
 matrix-combinations-parameter
 matrix-project
-nodelabelparameter
 parameterized-trigger
 pipeline-build-step
 pipeline-githubnotify-step
